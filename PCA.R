@@ -2,7 +2,7 @@
 #hridhowlader@gmail.com
 
 #setting up working directory
-#Importing data set
+#Importing the data set
 
 Data=read.csv("Data.csv",header=TRUE)
 summary(Data)
