@@ -1,6 +1,7 @@
 #MD SHAH NAIM HREDOY
 #hridhowlader@gmail.com
 
+#setting up working directory
 #Importing data set
 
 Data=read.csv("Data.csv",header=TRUE)
